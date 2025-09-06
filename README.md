@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou Julio César  
 
-<!--
-**juliobr78/juliobr78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Interesse em **DevOps, Automação e Cloud**  
+📚 Atualmente aprendendo **Programação, Linux e Git**  
+💡 Aberto a colaborar em projetos e aprender sempre mais  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e Ferramentas
+- Git & GitHub  
+- Linux  
+- Python (em aprendizado)  
+- Cloud & Automação (interesse)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+- [Fundamentos de Desenvolvimento](https://github.com/juliobr78/fundamentos---dev) – Repositório com práticas e exercícios do curso.
+
+---
+
+📫 Você pode me encontrar no https://linkedin.com/in/julio-cesar-vieira-411465378
